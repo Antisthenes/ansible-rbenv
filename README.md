@@ -58,5 +58,5 @@ MIT
 Author Information
 ------------------
 
-Created for @erasme by @leucos.
+Created for @erasme by @leucos. Modified by me for myself
 
