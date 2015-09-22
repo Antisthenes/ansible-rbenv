@@ -2,8 +2,9 @@
 - debug: msg="Ruby deploy user {{ ruby_deploy_user }}"
 
 - name: Install required packages
+  sudo: yes
   apt:
-    pkg=git-core
+    name=git
     state=present
     update-cache=yes
 
